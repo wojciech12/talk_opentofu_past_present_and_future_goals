@@ -5,6 +5,8 @@ The goal of the talk is to present to you the OpenTofu project. I will tell you 
 - [slides](slides.pdf)
 - [demo](example/)
 
+Questions? Feedback? Let me know - `wojciechb at spacelift.io`, I am also on the Gophers, CloudNative, and Kubernetes slacks (`Wojciech B`). Helpful? Like the [LinkedIn post](https://www.linkedin.com/in/wojciechbarczynski/recent-activity/all/) or ⭐ to this github repo.
+
 ## Join the OpenTofu project
 
 - [OpenTofu slack](https://opentofu.org/slack),
